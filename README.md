@@ -1,6 +1,6 @@
 # HealthcareProviderChoicesModel
 
-Analysis of Healthcare Provider Choices Using Multinomial Logistic Regression
+#Analysis of Healthcare Provider Choices Using Multinomial Logistic Regression
 Overview
 This project applies a Multinomial Logistic Regression Model to explore the determinants of healthcare provider choices among a sample of civilian non-institutionalized US population. The data analyzed in this project comes from the National Health Interview Survey (NHIS) responses collected from sample adults between 2019 and 2022. The focus is to understand how various factors such as demographics, insurance status, income, and general health status (including both mental and physical health) influence the choice of healthcare provider.
 
