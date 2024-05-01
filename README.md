@@ -23,3 +23,5 @@ The analysis includes a variety of predictor variables categorized as follows:
 - **Health Status**: General health status, Presence of chronic ailments (like hypertension, diabetes), and Mental health status.
 - **Insurance Status**: Type of health coverage (if any), which plays a critical role in healthcare provider choice.
 
+### Data Query Tool
+An interactive dropdown data query tool has been developed and can be viewed in the notebook `Dropdown_widget.ipynb`. This tool enables users to view trend lines in the usage of urgent care centers and emergency rooms based on the characteristics and variables mentioned above. It calculates the percentage of respondents from the total population interviewed in the National Health Interview Survey for individual years from 2019 to 2022 who reported at least one urgent care or emergency visit in the past 12 months. This functionality provides an insightful exploration into how different variables impact healthcare utilization trends over time.
